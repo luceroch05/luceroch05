@@ -4,7 +4,7 @@
   
   **Técnico en Computación e Informática | Full Stack Developer**
   
-  *Transformando ideas en soluciones digitales funcionales* 💻✨
+  💻✨
   
   [![Email](https://img.shields.io/badge/-luc3r0.ch4ngr4.99@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:luc3r0.ch4ngr4.99@gmail.com)
   [![Phone](https://img.shields.io/badge/-+51%20953%20608%20682-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+51953608682)
@@ -67,14 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Lucero's GitHub stats](https://github-readme-stats.vercel.app/api?username=luceroch05&show_icons=true&theme=vue-dark&hide_border=true)
-
-</div>
-
 ---
 
 ## 💼 Open to Opportunities
@@ -85,10 +77,4 @@
 
 ---
 
-<div align="center">
-  
-  *"Cada línea de código es una oportunidad para crear algo mejor"* 💻💚
-  
-  ⭐ *¡No olvides darle estrella a los repos que te gusten!*
-  
-</div>
+
