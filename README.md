@@ -1,120 +1,42 @@
-# Lucero Changra
-
-<div align="center">
-
-**Backend Developer | NestJS & Node.js**
-
-[![Email](https://img.shields.io/badge/Email-luc3r0.ch4ngr4.99%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:luc3r0.ch4ngr4.99@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-luceroch05-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/luceroch05)
-[![Phone](https://img.shields.io/badge/Phone-%2B51%20953%20608%20682-25D366?style=flat\&logo=whatsapp\&logoColor=white)](tel:+51953608682)
-
-</div>
-
+---
+name: frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+license: Complete terms in LICENSE.txt
 ---
 
-## About Me
+This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
 
-Backend Developer with real experience building **scalable APIs and production systems** using NestJS and Node.js.
+The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
 
-* Strong in backend architecture and REST APIs
-* Experience in medical and business systems
-* Focus on clean, maintainable, and scalable code
+## Design Thinking
 
----
+Before coding, understand the context and commit to a BOLD aesthetic direction:
+- **Purpose**: What problem does this interface solve? Who uses it?
+- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
+- **Constraints**: Technical requirements (framework, performance, accessibility).
+- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
 
-## Tech Stack
+**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
 
-### Backend
+Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
+- Production-grade and functional
+- Visually striking and memorable
+- Cohesive with a clear aesthetic point-of-view
+- Meticulously refined in every detail
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30"/>
-</p>
+## Frontend Aesthetics Guidelines
 
-### Database
+Focus on:
+- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
+- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
+- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
+- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
+- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="30"/>
-</p>
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
 
-### Frontend
+Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
-</p>
+**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
 
-### Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/>
-</p>
-
----
-
-## Experience
-
-**Backend Developer — Vaxa Systems**
-
-* Development of REST APIs with NestJS
-* JWT authentication and role-based access
-* Multi-tenant architecture
-* Modular backend design
-
-**Backend Developer — Contigo Crecemos**
-
-* Database design (MySQL)
-* REST API development
-* Authentication and session control
-* React integration
-
-**Web Developer — Centro Tiflotécnico Perú**
-
-* Dynamic catalog system
-* WhatsApp and email automation
-* Web accessibility implementation
-
----
-
-## Projects
-
-**Medical Management System**
-
-* REST API with NestJS
-* Patient and clinical records management
-* JWT authentication
-* Scalable architecture
-
-**Inventory & Sales System (In Progress)**
-
-* ASP.NET Web API
-* React + TypeScript
-* Inventory and sales modules
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luceroch05&show_icons=true&theme=default"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luceroch05&layout=compact"/>
-</p>
-
----
-
-## Current Focus
-
-* Backend architecture
-* Scalable systems
-* Clean code practices
-
----
-
-## Contact
-
-* Email: [luc3r0.ch4ngr4.99@gmail.com](mailto:luc3r0.ch4ngr4.99@gmail.com)
-* GitHub: https://github.com/luceroch05
+Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
