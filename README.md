@@ -1,80 +1,120 @@
-# Hi there! 👋 I'm Lucero Changra
-
-<div align="center">
-  
-  **Técnico en Computación e Informática | Full Stack Developer**
-  
-  💻✨
-  
-  [![Email](https://img.shields.io/badge/-luc3r0.ch4ngr4.99@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:luc3r0.ch4ngr4.99@gmail.com)
-  [![Phone](https://img.shields.io/badge/-+51%20953%20608%20682-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+51953608682)
-  
-</div>
-
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente trabajando en **Centro Tiflotécnico Perú SAC** desarrollando soluciones web accesibles
-- 🌱 Construyendo un **sistema de inventario y ventas** con ASP.NET Web API + React + TypeScript
-- 💡 Especializada en **desarrollo web full-stack** y **accesibilidad web**
-- 🎯 Siempre lista para aprender nuevas tecnologías y asumir desafíos
-
----
-
-## 🛠️ Tech Stack
+# Lucero Changra
 
 <div align="center">
 
-**Frontend**
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Backend Developer | NestJS & Node.js**
 
-**Backend**
-<br>
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-**Databases**
-<br>
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-luc3r0.ch4ngr4.99%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:luc3r0.ch4ngr4.99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-luceroch05-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/luceroch05)
+[![Phone](https://img.shields.io/badge/Phone-%2B51%20953%20608%20682-25D366?style=flat\&logo=whatsapp\&logoColor=white)](tel:+51953608682)
 
 </div>
 
 ---
 
-## 📈 Featured Projects
+## About Me
 
-### 🌐 **Sistema Web Corporativo** - *Centro Tiflotécnico*
-- ✅ Catálogo dinámico con base de datos MySQL
-- ✅ Herramientas de accesibilidad (modo oscuro, ajuste de texto, cursor personalizado)
-- ✅ Sistema de cotización + WhatsApp + emails automatizados
-- ✅ Optimización SEO y URLs amigables
-- **Stack:** PHP, JavaScript, MySQL, PHPMailer
+Backend Developer with real experience building **scalable APIs and production systems** using NestJS and Node.js.
 
-### 🏪 **Sistema de Inventario y Ventas** - *En desarrollo*
-- ✅ API REST con ASP.NET Web API
-- ✅ Frontend React + TypeScript
-- ✅ Módulos de inventario, ventas y atención al cliente
-- **Stack:** ASP.NET Web API, React, TypeScript, SQL Server, Entity Framework
+* Strong in backend architecture and REST APIs
+* Experience in medical and business systems
+* Focus on clean, maintainable, and scalable code
 
 ---
 
+## Tech Stack
+
+### Backend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="30"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/>
+</p>
+
 ---
 
-## 💼 Open to Opportunities
+## Experience
 
-🔍 **Buscando oportunidades** como **Desarrolladora Full Stack Junior**
+**Backend Developer — Vaxa Systems**
 
-📧 Contáctame: **luc3r0.ch4ngr4.99@gmail.com**
+* Development of REST APIs with NestJS
+* JWT authentication and role-based access
+* Multi-tenant architecture
+* Modular backend design
+
+**Backend Developer — Contigo Crecemos**
+
+* Database design (MySQL)
+* REST API development
+* Authentication and session control
+* React integration
+
+**Web Developer — Centro Tiflotécnico Perú**
+
+* Dynamic catalog system
+* WhatsApp and email automation
+* Web accessibility implementation
 
 ---
 
+## Projects
 
+**Medical Management System**
+
+* REST API with NestJS
+* Patient and clinical records management
+* JWT authentication
+* Scalable architecture
+
+**Inventory & Sales System (In Progress)**
+
+* ASP.NET Web API
+* React + TypeScript
+* Inventory and sales modules
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luceroch05&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luceroch05&layout=compact"/>
+</p>
+
+---
+
+## Current Focus
+
+* Backend architecture
+* Scalable systems
+* Clean code practices
+
+---
+
+## Contact
+
+* Email: [luc3r0.ch4ngr4.99@gmail.com](mailto:luc3r0.ch4ngr4.99@gmail.com)
+* GitHub: https://github.com/luceroch05
